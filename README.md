@@ -24,13 +24,13 @@
 
 <p><img align="center" src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="20px"> <b> I am open to freelance projects.</b></p>
 
-<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me: <a target="blank"href="https://www.linkedin.com/in/bianca-i-457958200/">LinkedIn</a> or <a target="blank" href="https://wa.me/5542998363310">WhatsApp</a> </p>
+<p><img align="center" src="https://media.giphy.com/media/WCS0Vbr4odJ615HPMe/giphy.gif" width="20px"> <b> Reach out to me: <a target="_blank"href="https://www.linkedin.com/in/bianca-i-457958200/">LinkedIn</a> or <a target="_blank" href="https://wa.me/5542998363310">WhatsApp</a> </p>
 ---
 
 <h3><img align="top" src="https://media.giphy.com/media/AEMgXCqNwfxvbNWVCt/giphy.gif" width="25px"> Connect with me:</h3>
 <div  align="center">
-  <a href="https://www.linkedin.com/in/bianca-i-457958200/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" width="40px" /></a>
- <a href="https://www.instagram.com/bianca.isbly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taahribeeiro" height="40" width="40px" /></a>
+  <a href="https://www.linkedin.com/in/bianca-i-457958200/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" width="40px" /></a>
+ <a href="https://www.instagram.com/bianca.isbly/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taahribeeiro" height="40" width="40px" /></a>
 </div>
 
 ---
