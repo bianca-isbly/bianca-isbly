@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! I'm Bianca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-
-<!-- ABOUT -->
+<h1 align="center">Hi there! I'm Bianca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1> 
 
 <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"> About me:</h3>
 <img align="right" width=300px alt="Little coder bear" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -34,8 +32,6 @@
 </div>
 
 ---
-
-<!-- PROGRAMMING LANGUAGES -->
 
 <h3><img align="top" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Languages and Tools:</h3>
 
