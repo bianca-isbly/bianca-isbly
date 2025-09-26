@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! I'm Bianca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
-
-<!-- ABOUT -->
+<h1 align="center">Hi there! I'm Bianca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1> 
 
 <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"> About me:</h3>
 <img align="right" width=300px alt="Little coder bear" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
