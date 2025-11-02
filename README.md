@@ -14,10 +14,11 @@
 <p><img align="top" src="https://media.giphy.com/media/tDDIeB24eaOr3xhbia/giphy.gif" width="20px"> <b> I’m currently studying and improving:</b></br>
   &emsp; ☆ HTML5 </br>
   &emsp; ☆ CSS3 </br>
+  &emsp; ☆ Figma </br>
   &emsp; ☆ JavaScript </br>
+  &emsp; ☆ Node.js </br>
   &emsp; ☆ Git </br>
   &emsp; ☆ GitHub </br>
-  &emsp; ☆ Figma
 </p>
 
 <p><img align="center" src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="20px"> <b> I am open to freelance projects.</b></p>
